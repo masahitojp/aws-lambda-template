@@ -1,0 +1,7 @@
+pytest
+flake8
+mypy
+freezegun
+
+boto3
+placebo
